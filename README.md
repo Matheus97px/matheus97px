@@ -20,13 +20,6 @@ Sempre fui apaixonado por tecnologia, estou construindo meu espaço no mercado c
 
 ---
 
-### 📚 Projetos em destaque
-
-🔗 [Landing Page da DIO](https://matheus97px.github.io/landing-page-dio-/)  
-📁 [Repositório no GitHub](https://github.com/matheus97px/landing-page-dio-)
-
----
-
 ### 📊 Estatísticas GitHub
 
 <div align="center">
