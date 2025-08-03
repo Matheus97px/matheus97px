@@ -5,7 +5,7 @@
 ### 👨‍💻 Sobre mim
 
 Desenvolvedor front-end em formação com foco em **HTML, CSS e JavaScript**.  
-Atualmente participando do bootcamp da **DIO + RiHappy**  e bootcamp da **Generation Brasil.**
+Atualmente participando do bootcamp da **Generation Brasil.**
 Sempre fui apaixonado por tecnologia, estou construindo meu espaço no mercado com muita dedicação e prática diária.
 
 ---
